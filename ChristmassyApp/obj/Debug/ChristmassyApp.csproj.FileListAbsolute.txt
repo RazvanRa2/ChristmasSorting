@@ -1,0 +1,9 @@
+c:\users\razvan\documents\visual studio 2017\Projects\ChristmassyApp\ChristmassyApp\bin\Debug\ChristmassyApp.exe.config
+c:\users\razvan\documents\visual studio 2017\Projects\ChristmassyApp\ChristmassyApp\bin\Debug\ChristmassyApp.exe
+c:\users\razvan\documents\visual studio 2017\Projects\ChristmassyApp\ChristmassyApp\bin\Debug\ChristmassyApp.pdb
+c:\users\razvan\documents\visual studio 2017\Projects\ChristmassyApp\ChristmassyApp\bin\Debug\Microsoft.ProjectOxford.Vision.dll
+c:\users\razvan\documents\visual studio 2017\Projects\ChristmassyApp\ChristmassyApp\bin\Debug\Newtonsoft.Json.dll
+c:\users\razvan\documents\visual studio 2017\Projects\ChristmassyApp\ChristmassyApp\bin\Debug\Newtonsoft.Json.xml
+c:\users\razvan\documents\visual studio 2017\Projects\ChristmassyApp\ChristmassyApp\obj\Debug\ChristmassyApp.csprojResolveAssemblyReference.cache
+c:\users\razvan\documents\visual studio 2017\Projects\ChristmassyApp\ChristmassyApp\obj\Debug\ChristmassyApp.exe
+c:\users\razvan\documents\visual studio 2017\Projects\ChristmassyApp\ChristmassyApp\obj\Debug\ChristmassyApp.pdb
